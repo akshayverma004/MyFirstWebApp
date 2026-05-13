@@ -5,7 +5,8 @@ public class A1
 	{
 	int a=10;
 	int b=5;
-	int c;
+	int c,e;
 		System.out.println(c=a+b);
+		System.out.println(e=a/b);
 	}
 }
